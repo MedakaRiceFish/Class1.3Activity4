@@ -19,7 +19,11 @@ How does this company use technology to their advantage? Why are they considered
 ```
 Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 ```
+* Our company JP Morgan and the case prompt is JPM coin. The Company is exemplary due to its large capital reserves and ability to commits a large amount of funds to technology R&D. It has can beta test technologies in a number of different settings, which is valuable for identifying errors, inefficiencies, etc. Furthermore, given the large amount of capital the company possesses it can make acquisitions and venture investments into disruptive technologies.
+
+* The main weaknesses would be the fact that the organization is massive and rolling out new technologies can be both cumbersome and controversial. There is also increased regulatory scrutiny.
 
 ```
 What is the prognosis for this company? Where do they expect to be in the future?
 ```
+*
