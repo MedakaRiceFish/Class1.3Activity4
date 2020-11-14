@@ -1,9 +1,15 @@
 # Class1.3Activity4
 
-# Class 1.3 Activity 4
+# Case Study: JPM Coin
+#### Becoming Fintech 
 
 ![JPM COIN](https://www.adweek.com/wp-content/uploads/2019/02/jpm-coin-content-2019.png "JPM COIN")
 
+---
+
+#### Contributors: Ryan, Abdull, Nicholas
+---
+---
 
 ```
 What is the background of your company? What do they do? Who are their competitors?
